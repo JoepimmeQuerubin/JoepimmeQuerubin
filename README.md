@@ -17,11 +17,17 @@ New Era University | 2024 – Present
 
 ---
 
+## Certifications
+Here are some certifications I’ve earned:  
+<a href="https://courses.cognitiveclass.ai/certificates/ac07c0381cf641978e4c6ad2f208957a" target="_blank" rel="noopener noreferrer">SQL and Relational Databases 101</a>
+
+---
+
 ## Skills
 - **Web Development:** HTML, CSS, JavaScript  ★☆☆☆☆ 
 - **UI/UX Design:** Figma, Wireframing, Prototyping, User-Centered Design  ★★☆☆☆  
 - **Other Skills:** Problem-solving, Team Collaboration, Quick Learner  ★★★☆☆    
-
+  
 ---
 
 ## Projects
@@ -32,18 +38,5 @@ Some projects I’ve worked on:
 
 ---
 
-## Certifications
-Here are some certifications I’ve earned:  
-- [Certificate Name 1](link-to-certificate-1)  
-- [Certificate Name 2](link-to-certificate-2)  
-
----
-
-## Connect with Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
-
----
 
 > "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
