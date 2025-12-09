@@ -19,9 +19,18 @@ New Era University | 2024 – Present
 
 ## Certifications
 Here are some certifications I’ve earned:  
-<a href="https://courses.cognitiveclass.ai/certificates/ac07c0381cf641978e4c6ad2f208957a" target="_blank" rel="noopener noreferrer">SQL and Relational Databases 101</a>
-
----
+<ul>
+  <li>  
+    <a href="https://courses.cognitiveclass.ai/certificates/ac07c0381cf641978e4c6ad2f208957a">
+      <i class="fa-solid fa-link"></i> SQL and Relational Databases 101
+    </a>
+  </li>
+  <li>  
+    <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D91B269A77444C54D9CDA84F115B7A2C8872FCE6FC248DB80FD56EC3263B16DB">
+      <i class="fa-solid fa-link"></i> OCI Foundations Associate (2025)
+    </a>
+  </li>
+</ul>
 
 ## Skills
 - **Web Development:** HTML, CSS, JavaScript  ★☆☆☆☆ 
