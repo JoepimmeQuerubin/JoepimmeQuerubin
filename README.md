@@ -35,6 +35,11 @@ Here are some certifications I’ve earned:
       <i class="fa-solid fa-link"></i> Oracle Data Platform 2025 Certified Foundations Associate
     </a>
   </li>
+  <li>
+    <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=25C32D0499C6D496CDD097D563F2057C829EAC3D6F4DC49AB0FD4BB73D59166D">
+      <i class="fa-solid fa-link"></i> Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+    </a>
+  </li>
 </ul>
 
 
