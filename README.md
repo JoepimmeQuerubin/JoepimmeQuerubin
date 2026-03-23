@@ -52,6 +52,8 @@ Here are some certifications I’ve earned:
 
 ## Projects
 Some projects I’ve worked on:  
+- **NEU Library Visitor Log** - A web-based system for tracking library visitors at NEU. Students can check in and out, while admins can monitor, manage, and generate reports.
+  Live Site - https://neulibraryvisitorlog.netlify.app/
 - **Personal Website** – A simple portfolio website to showcase my projects  
 - **UI/UX Design Mockups** – Designs and prototypes created in Figma  
 - **Math Blitz Game (Web Version)** – Beginner-level web game for learning and fun  
